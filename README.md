@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi friends, I'm Abiyyu
 
-<!--
-**Enotherms/Enotherms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+Student at Universitas Budi Luhur. Find out more about me and feel free to connect with me here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Abiyyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiyyu-dhiyaul-haq-333575268/)
+
+
+## Currently Learning
+
+![Javascript](https://img.shields.io/badge/Javascript-Language-EDF24B?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)

@@ -1,6 +1,6 @@
-# Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abiyyu
+# Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abiyyu Dhiyaul Haq
 
-## 🥷 About
+## 👨🏻‍💻 About
 
 student at Universitas Budi Luhur. Find out more about me and feel free to connect with me here:
 

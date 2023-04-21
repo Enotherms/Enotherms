@@ -1,4 +1,4 @@
-# Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abiyyu Dhiyaul Haq
+# Hi, I'm Abiyyu Dhiyaul Haq <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
 
 ## 👨🏻‍💻 About
 

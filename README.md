@@ -1,4 +1,8 @@
-<div align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abiyyu Dhiyaul Haq</div>
+<div align="center">
+  <h1>
+    Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abiyyu Dhiyaul Haq
+  </h1>
+</div>
 
 ## About
 student at Universitas Budi Luhur. Find out more about me and feel free to connect with me here:

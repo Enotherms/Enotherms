@@ -1,7 +1,7 @@
 ## Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abiyyu Dhiyaul Haq
 student at Universitas Budi Luhur. Find out more about me and feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abiyyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiyyu-dhiyaul-haq-   333575268/)](https://www.linkedin.com/in/abiyyu-dhiyaul-haq-333575268/)
+![Linkedin Badge](https://img.shields.io/badge/-Abiyyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiyyu-dhiyaul-haq-   333575268/)](https://www.linkedin.com/in/abiyyu-dhiyaul-haq-333575268/)
 
 ## Currently Learning
 ![Javascript](https://img.shields.io/badge/Javascript-Language-EDF24B?style=for-the-badge&logo=javascript)

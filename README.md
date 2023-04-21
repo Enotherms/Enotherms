@@ -1,6 +1,7 @@
-# Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abiyyu
-
-Student at Universitas Budi Luhur. Find out more about me and feel free to connect with me here:
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abiyyu</h1>
+<h4 align="center">Student at Universitas Budi Luhur. Find out more about me and feel free to connect with me here:</h4>
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abiyyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiyyu-dhiyaul-haq-333575268/)](https://www.linkedin.com/in/abiyyu-dhiyaul-haq-333575268/)
 

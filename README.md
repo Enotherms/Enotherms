@@ -5,7 +5,6 @@
 student at Universitas Budi Luhur. Find out more about me and feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abiyyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiyyu-dhiyaul-haq-333575268/)](https://www.linkedin.com/in/abiyyu-dhiyaul-haq-333575268/)
-[![Twitter Badge](https://img.shields.io/badge/-Abiyyu-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_biyyu)](https://twitter.com/_biyyu)
 
 ## 🖥️ Language
 

@@ -1,41 +1,37 @@
-<h1 align="center">Abiyyu Dhiyaul Haq</h1>
+# Abiyyu Dhiyaul Haq
 
-<p align="center">
-  System Engineer &amp; Backend Engineer<br>
-  I build and run backend services on AWS, and make game tools for fun.
-</p>
+System Engineer and Backend Engineer based in Indonesia. I design, deploy and maintain reliable backend services on AWS, and build performance tools for PC gaming in my spare time.
 
----
+### Experience
 
-### What I do
-
-- **Day job:** system and backend engineering: designing, deploying and keeping services healthy on AWS, with APIs in Express and Python.
-- **For fun:** game tools and plugins in Python, C++ and Rust, lately for the Steam Deck.
+- **Professional:** system and backend engineering, covering cloud infrastructure on AWS, service reliability, and API development with Express and Python.
+- **Personal projects:** game tools and plugins written in Python, C++ and Rust, with a current focus on the Steam Deck.
 
 ### Featured project
 
-**[HaqGen](https://github.com/Enotherms/HaqGen)**: a Decky Loader plugin that sets up and controls Lossless Scaling frame generation on the Steam Deck, from the Quick Access menu.
+**[HaqGen](https://github.com/Enotherms/HaqGen)**: an open-source Decky Loader plugin that installs and manages Lossless Scaling frame generation on the Steam Deck, with per-game profiles controlled from the Quick Access menu.
 
-### Stack
+### Technical skills
 
-<table align="center">
+<table>
   <tr>
-    <th>Work</th>
-    <th>Hobby</th>
+    <th align="left">Professional</th>
+    <th align="left">Personal projects</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws,nodejs,express,py&perline=4" height="48" alt="AWS, Node.js, Express, Python"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp,rust,py,steam&perline=4" height="48" alt="C++, Rust, Python, Steam Deck"></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,nodejs,express,py&perline=4" height="48" alt="AWS, Node.js, Express, Python"></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,rust,py,steam&perline=4" height="48" alt="C++, Rust, Python, Steam Deck"></td>
   </tr>
   <tr>
-    <th colspan="2">Also worked with</th>
+    <th align="left" colspan="2">Additional experience</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&perline=4" height="48" alt="JavaScript, TypeScript, React, Next.js"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php,laravel,html,css&perline=4" height="48" alt="PHP, Laravel, HTML, CSS"></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&perline=4" height="48" alt="JavaScript, TypeScript, React, Next.js"></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,html,css&perline=4" height="48" alt="PHP, Laravel, HTML, CSS"></td>
   </tr>
 </table>
 
-### Connect
+### Contact
 
-[LinkedIn](https://www.linkedin.com/in/abiyyu-dhiyaul-haq-333575268/) · or open an issue or discussion on any of my repositories.
+- [LinkedIn](https://www.linkedin.com/in/abiyyu-dhiyaul-haq-333575268/)
+- For project questions, please open an issue or discussion in the relevant repository.

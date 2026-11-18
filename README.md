@@ -22,13 +22,6 @@ System Engineer and Backend Engineer based in Indonesia. I design, deploy and ma
     <td><img src="https://skillicons.dev/icons?i=aws,nodejs,express,py&perline=4" height="48" alt="AWS, Node.js, Express, Python"></td>
     <td><img src="https://skillicons.dev/icons?i=cpp,rust,py,steam&perline=4" height="48" alt="C++, Rust, Python, Steam Deck"></td>
   </tr>
-  <tr>
-    <th align="left" colspan="2">Additional experience</th>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&perline=4" height="48" alt="JavaScript, TypeScript, React, Next.js"></td>
-    <td><img src="https://skillicons.dev/icons?i=php,laravel,html,css&perline=4" height="48" alt="PHP, Laravel, HTML, CSS"></td>
-  </tr>
 </table>
 
 ### Contact

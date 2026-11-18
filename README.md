@@ -7,10 +7,6 @@ System Engineer and Backend Engineer based in Indonesia. I design, deploy and ma
 - **Professional:** system and backend engineering, covering cloud infrastructure on AWS, service reliability, and API development with Express and Python.
 - **Personal projects:** game tools and plugins written in Python, C++ and Rust, with a current focus on the Steam Deck.
 
-### Featured project
-
-**[HaqGen](https://github.com/Enotherms/HaqGen)**: an open-source Decky Loader plugin that installs and manages Lossless Scaling frame generation on the Steam Deck, with per-game profiles controlled from the Quick Access menu.
-
 ### Technical skills
 
 <table>
